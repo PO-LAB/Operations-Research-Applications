@@ -19,9 +19,9 @@ This course will provide students to learn the methodologies of operations resea
 
 1. [智慧製造與生產線上的資料科學(Data Science in Manufacturing)](http://polab.im.ntu.edu.tw/Talk/Data_Science_in_Manufacturing.pdf)
 
-### **資料分析實例 (Python)**   
+### **模型與應用實例 (Python)**   
 
-1. [資料預處理(Data preprocessing)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/1.%20Data%20preprocessing.ipynb)
+1. [數據包絡分析(Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
 2. [缺失值填補(Data imputation)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/2.%20Data%20imputation.ipynb)
 3. [資料視覺化(Data visualization)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/3.%20Data%20visualization.ipynb)
 
