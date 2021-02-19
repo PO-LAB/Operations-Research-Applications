@@ -22,8 +22,9 @@ This course will provide students to learn the methodologies of operations resea
 ### **模型與應用實例 (Python)**   
 
 1. [數據包絡分析(Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
-2. [缺失值填補(Data imputation)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/2.%20Data%20imputation.ipynb)
-3. [資料視覺化(Data visualization)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/3.%20Data%20visualization.ipynb)
+2. [多目標決策分析(Multi-Objective Decision Analysis)]
+2.1 [MODA Prior Articulation of Preference] (https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
+4. [資料視覺化(Data visualization)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/3.%20Data%20visualization.ipynb)
 
 
 
