@@ -34,13 +34,14 @@ This course will provide students to learn the methodologies of operations resea
 2. [強化學習概論(Introduction to Reinforcement Learning)](https://github.com/TzuYuOu/Reinforcement-Learning-Introduction)
 3. [深度強化學習概論(Introduction to Deep Reinforcement Learning)](https://github.com/ITingHung/Introduction-to-Deep-Reinforcement-Learning)
 4. [多目標強化學習(Multi-Objective Reinforement Learning)](https://github.com/kevin880987/Multi-Objective-Reinforement-Learning)
-5. [強化學習於生產排程(Reinforcement Learning for Production Scheduling)](https://github.com/yuwen-teng/ORA/tree/master)
+5. [強化學習於生產排程1(Reinforcement Learning for Flow Shop Scheduling](https://github.com/wurmen/Flow-Shop-Scheduling-Based-On-Reinforcement-Learning-Algorithm)
+6. [強化學習於生產排程2(Reinforcement Learning for Semiconductor Scheduling)](https://github.com/yuwen-teng/ORA/tree/master)
 
 ### **生產排程 Production Scheduling**
 1. [數學規劃 Mathematical Programming for Job Shop Scheduling](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Job%20shop%20scheduling%20problem.md)
 2. [數學規劃 Mathematical Programming for Flexible Job Shop](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Flexible%20Job%20Shop%20Problem.md)
-3. [基因演算法(Genetic Algorithm for Job Shop Scheduling)-1](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/GA/GA.md)
-4. [基因演算法(Genetic Algorithm for Job Shop Scheduling)-2](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/GA_Application_Job_Shop_Problem/JSP.md)
+3. [基因演算法於生產排程1(Genetic Algorithm for Job Shop Scheduling-1)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/GA/GA.md)
+4. [基因演算法於生產排程2(Genetic Algorithm for Job Shop Scheduling-2)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/GA_Application_Job_Shop_Problem/JSP.md)
 5. [Nondominated Sorting Genetic Algorithm II (NSGA-II for Job Shop Scheduling)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/NSGA-II/NSGA-II.md)
 
 ### **啟發式演算法 Metaheuristic** 
