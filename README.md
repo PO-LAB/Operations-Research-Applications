@@ -25,8 +25,9 @@ This course will provide students to learn the methodologies of operations resea
 1. [MODA: Prior Articulation of Preference](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
 2. [MODA: Progressive Articulation of Preferences](https://github.com/rgib37190/Operating-System)
 3. [數據包絡分析概論(Introduction to Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
-4. [投資組合最佳化(Investment Portfolio Optimization)](https://github.com/Ming-Xuan/GalaxyMing)
-5. [廠商評選與訂單配置(Vendor Selection and Order Allocation)](https://github.com/maharanirizki/VSOA)
+4. [數據包絡分析(Data Envelopment Analysis)](https://github.com/PO-LAB/Data-Envelopment-Analysis)
+5. [投資組合最佳化(Investment Portfolio Optimization)](https://github.com/Ming-Xuan/GalaxyMing)
+6. [廠商評選與訂單配置(Vendor Selection and Order Allocation)](https://github.com/maharanirizki/VSOA)
 
 ### **強化學習 Reinforcement Learning** 
 1. [馬可夫決策過程(Markov Decision Process)](https://github.com/tyler8812/Markovian-Decision-Process)
@@ -35,6 +36,15 @@ This course will provide students to learn the methodologies of operations resea
 4. [多目標強化學習(Multi-Objective Reinforement Learning)](https://github.com/kevin880987/Multi-Objective-Reinforement-Learning)
 5. [強化學習於生產排程(Reinforcement Learning for Production Scheduling)](https://github.com/yuwen-teng/ORA/tree/master)
 
+### **生產排程 Production Scheduling**
+1. [數學規劃 Mathematical Programming for Job Shop Scheduling](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Job%20shop%20scheduling%20problem.md)
+2. [數學規劃 Mathematical Programming for Flexible Job Shop](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Flexible%20Job%20Shop%20Problem.md)
+3. [基因演算法(Genetic Algorithm for Job Shop Scheduling)-1](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/GA/GA.md)
+4. [基因演算法(Genetic Algorithm for Job Shop Scheduling)-2](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/GA_Application_Job_Shop_Problem/JSP.md)
+5. [Nondominated Sorting Genetic Algorithm II (NSGA-II for Job Shop Scheduling)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/NSGA-II/NSGA-II.md)
+
+### **啟發式演算法 Metaheuristic** 
+
 ### **:pushpin: Python**
 ### **:triangular_flag_on_post: 其他介紹**
-1. [數據包絡分析(Data Envelopment Analysis)](https://github.com/PO-LAB/Data-Envelopment-Analysis)
+
