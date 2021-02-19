@@ -44,6 +44,9 @@ This course will provide students to learn the methodologies of operations resea
 5. [Nondominated Sorting Genetic Algorithm II (NSGA-II for Job Shop Scheduling)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/NSGA-II/NSGA-II.md)
 
 ### **啟發式演算法 Metaheuristic** 
+1. [禁忌搜尋法(Tabu Search Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Tabu_Algorithm/Tabu_Algorithm.md)
+2. [模擬退火法(Simulated Annealing Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Simulated_Annealing_Algorithm/Simulated_Annealing_Algorithm.md)
+3. [基因演算法(Genetic Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Genetic_Algorithm/Genetic_Algorithm.md)
 
 ### **:pushpin: Python**
 ### **:triangular_flag_on_post: 其他介紹**
