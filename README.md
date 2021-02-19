@@ -15,16 +15,26 @@ This course will provide students to learn the methodologies of operations resea
 | 洪佑鑫       | Yu-Hsin Jeff  Hung            | [https://www.linkedin.com/in/hungyuhsin/](https://www.linkedin.com/in/hungyuhsin/)     
    
 
-### **投影片講義**   
+### **隨機規劃 Stochastic Programming** 
+1. [隨機規劃(Stochastic Programming)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling%20Method.pdf)
 
-1. [智慧製造與生產線上的資料科學(Data Science in Manufacturing)](http://polab.im.ntu.edu.tw/Talk/Data_Science_in_Manufacturing.pdf)
+### **模型與應用實例**   
+1. [動態供應鏈(Dynamic Supply Chain Management)](https://github.com/peng1055/Dynamic-Supply-Chain)
 
-### **模型與應用實例 (Python)**   
+### **多目標決策分析 Multi-Objective Decision Analysis** 
 
-1. [數據包絡分析(Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
-2. [多目標決策分析(Multi-Objective Decision Analysis)]
-2.1 [MODA Prior Articulation of Preference] (https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
-4. [資料視覺化(Data visualization)](https://nbviewer.jupyter.org/github/PO-LAB/Data-Science-in-Manufacturing/blob/master/MDS/3.%20Data%20visualization.ipynb)
+1  [MODA: Prior Articulation of Preference](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
+2  [MODA: Progressive Articulation of Preferences](https://github.com/rgib37190/Operating-System)
+3. [數據包絡分析(Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
+4. [投資組合最佳化(Investment Portfolio Optimization)](https://github.com/Ming-Xuan/GalaxyMing)
+5. [廠商評選與訂單配置(Vendor Selection and Order Allocation)](https://github.com/maharanirizki/VSOA)
+
+### **強化學習 Reinforcement Learning** 
+1. [馬可夫決策過程(Markov Decision Process)](https://github.com/tyler8812/Markovian-Decision-Process)
+2. [強化學習概論(Introduction to Reinforcement Learning)](https://github.com/TzuYuOu/Reinforcement-Learning-Introduction)
+3. [深度強化學習概論(Introduction to Deep Reinforcement Learning)](https://github.com/ITingHung/Introduction-to-Deep-Reinforcement-Learning)
+4. [多目標強化學習(Multi-Objective Reinforement Learning)](https://github.com/kevin880987/Multi-Objective-Reinforement-Learning)
+5. [強化學習於生產排程(Reinforcement Learning for Production Scheduling)](https://github.com/yuwen-teng/ORA/tree/master)
 
 
 
