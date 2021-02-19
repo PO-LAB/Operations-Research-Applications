@@ -16,7 +16,8 @@ This course will provide students to learn the methodologies of operations resea
    
 
 ### **隨機規劃 Stochastic Programming** 
-1. [隨機規劃(Stochastic Programming)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling%20Method.pdf)
+1. [漸進抽樣法pdf(Approximation and Sampling Method)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling%20Method.pdf)
+2. [漸進抽樣法code(Approximation and Sampling Method)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling.ipynb)
 
 ### **模型與應用實例**   
 1. [動態供應鏈(Dynamic Supply Chain Management)](https://github.com/peng1055/Dynamic-Supply-Chain)
