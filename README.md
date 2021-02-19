@@ -22,10 +22,9 @@ This course will provide students to learn the methodologies of operations resea
 1. [動態供應鏈(Dynamic Supply Chain Management)](https://github.com/peng1055/Dynamic-Supply-Chain)
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
-
 1  [MODA: Prior Articulation of Preference](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
 2  [MODA: Progressive Articulation of Preferences](https://github.com/rgib37190/Operating-System)
-3. [數據包絡分析(Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
+3. [數據包絡分析概論(Introduction to Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
 4. [投資組合最佳化(Investment Portfolio Optimization)](https://github.com/Ming-Xuan/GalaxyMing)
 5. [廠商評選與訂單配置(Vendor Selection and Order Allocation)](https://github.com/maharanirizki/VSOA)
 
@@ -36,18 +35,6 @@ This course will provide students to learn the methodologies of operations resea
 4. [多目標強化學習(Multi-Objective Reinforement Learning)](https://github.com/kevin880987/Multi-Objective-Reinforement-Learning)
 5. [強化學習於生產排程(Reinforcement Learning for Production Scheduling)](https://github.com/yuwen-teng/ORA/tree/master)
 
-
-
-
 ### **:pushpin: Python**
 ### **:triangular_flag_on_post: 其他介紹**
-|  更新時間       |                      文章                                                                                                      |
-| :-----------:  | :-----------------------------------------------------------------------------------------------------:                        |
-|  2019-11-14     | [可解釋性人工智慧 Explainable Artificial Intelligence(XAI)](https://github.com/ITingHung/Explainable-Artificial-Intelligence-XAI-) |
-|  2019-11-14     | [代價敏感 Cost Sensitive](https://github.com/wutsungyu/Cost-Sensitive)
-
-
-### **資料分析實例 (R)** 
-
-1. [半導體製造資料分析(Data Analysis in Semiconductor Manufacturing)](http://rpubs.com/jeff_datascience/Semiconductor_Manufacturing)
-2. [缺陷鋼板分類資料分析(Data Analysis in Faulty Steel Plates Classification)](http://rpubs.com/james_datacatcher/svm)
+1. [數據包絡分析(Data Envelopment Analysis)](https://github.com/PO-LAB/Data-Envelopment-Analysis)
