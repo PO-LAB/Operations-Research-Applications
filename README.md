@@ -12,7 +12,7 @@ This course will provide students to learn the methodologies of operations resea
 
 | 編輯者       |    暱稱         |                      LinkedIn                                                            |
 | :-----------:|:-----------:    |:---------------------------------------------------------------------------------------: |
-| 洪佑鑫       | Yu-Hsin Jeff  Hung            | [https://www.linkedin.com/in/hungyuhsin/](https://www.linkedin.com/in/hungyuhsin/)     
+| 李家岩       | Chia-Yen Lee    | [http://polab.im.ntu.edu.tw/Bio.html](http://polab.im.ntu.edu.tw/Bio.html)     
    
 
 ### **隨機規劃 Stochastic Programming** 
