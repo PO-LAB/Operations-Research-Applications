@@ -15,6 +15,10 @@ This course will provide students to learn the methodologies of operations resea
 | 李家岩       | Chia-Yen Lee    | [http://polab.im.ntu.edu.tw/Bio.html](http://polab.im.ntu.edu.tw/Bio.html)     
    
 
+### **Fundamentals for Linear Programming**
+### **Python+Gurobi / Python+Pulp** 
+1. [Python+Gurobi / Python+Pulp](https://github.com/PO-LAB/Python-Gurobi-Pulp)
+
 ### **隨機規劃 Stochastic Programming** 
 1. [漸進抽樣法pdf(Approximation and Sampling Method)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling%20Method.pdf)
 2. [漸進抽樣法code(Approximation and Sampling Method)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling.ipynb)
