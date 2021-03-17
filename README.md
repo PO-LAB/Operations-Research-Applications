@@ -31,7 +31,7 @@ This course will provide students to learn the methodologies of operations resea
 3. [投資組合最佳化(Investment Portfolio Optimization)](https://github.com/Ming-Xuan/GalaxyMing)
 4. [廠商評選與訂單配置(Vendor Selection and Order Allocation)](https://github.com/maharanirizki/VSOA)
 
-### **強化學習 Reinforcement Learning**
+### **數據包絡分析 Data Envelopment Analysis (DEA)**
 1. [數據包絡分析概論(Introduction to Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
 2. [數據包絡分析(Data Envelopment Analysis)](https://github.com/PO-LAB/Data-Envelopment-Analysis)
 3. [網路數據包絡分析(Network Data Envelopment Analysis)](https://github.com/wurmen/DEA/blob/master/Network_DEA/network_dea.md)
