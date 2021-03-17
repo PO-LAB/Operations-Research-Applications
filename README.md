@@ -27,7 +27,7 @@ This course will provide students to learn the methodologies of operations resea
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
 1. [MODA: Prior Articulation of Preference](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
-2. [MODA: Progressive Articulation of Preferences](https://github.com/rgib37190/Operating-System)
+2. [MODA: Progressive Articulation of Preferences- The Step Method(STEM)](https://github.com/rgib37190/Operating-System)
 3. [數據包絡分析概論(Introduction to Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
 4. [數據包絡分析(Data Envelopment Analysis)](https://github.com/PO-LAB/Data-Envelopment-Analysis)
 5. [隨機無母數數據包絡(Stochastic Nonparametric Envelopment of Data, StoNED)](https://pystoned.readthedocs.io/en/latest/#)
