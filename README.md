@@ -15,8 +15,7 @@ This course will provide students to learn the methodologies of operations resea
 | 李家岩       | Chia-Yen Lee    | [http://polab.im.ntu.edu.tw/Bio.html](http://polab.im.ntu.edu.tw/Bio.html)     
    
 
-### **Fundamentals for Linear Programming**
-### **Python+Gurobi / Python+Pulp** 
+### **Fundamentals for Linear Programming** 
 1. [Python+Gurobi / Python+Pulp](https://github.com/PO-LAB/Python-Gurobi-Pulp)
 
 ### **隨機規劃 Stochastic Programming** 
@@ -31,8 +30,9 @@ This course will provide students to learn the methodologies of operations resea
 2. [MODA: Progressive Articulation of Preferences](https://github.com/rgib37190/Operating-System)
 3. [數據包絡分析概論(Introduction to Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
 4. [數據包絡分析(Data Envelopment Analysis)](https://github.com/PO-LAB/Data-Envelopment-Analysis)
-5. [投資組合最佳化(Investment Portfolio Optimization)](https://github.com/Ming-Xuan/GalaxyMing)
-6. [廠商評選與訂單配置(Vendor Selection and Order Allocation)](https://github.com/maharanirizki/VSOA)
+5. [隨機無母數數據包絡(Stochastic Nonparametric Envelopment of Data, StoNED)](https://pystoned.readthedocs.io/en/latest/#)
+6. [投資組合最佳化(Investment Portfolio Optimization)](https://github.com/Ming-Xuan/GalaxyMing)
+7. [廠商評選與訂單配置(Vendor Selection and Order Allocation)](https://github.com/maharanirizki/VSOA)
 
 ### **強化學習 Reinforcement Learning** 
 1. [馬可夫決策過程(Markov Decision Process)](https://github.com/tyler8812/Markovian-Decision-Process)
