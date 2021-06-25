@@ -32,6 +32,7 @@ This course will provide students to learn the methodologies of operations resea
 2. [MODA: Progressive Articulation of Preferences- The Step Method(STEM)](https://github.com/rgib37190/Operating-System)
 3. [投資組合最佳化(Investment Portfolio Optimization)](https://github.com/Ming-Xuan/GalaxyMing)
 4. [廠商評選與訂單配置(Vendor Selection and Order Allocation)](https://github.com/maharanirizki/VSOA)
+5. [隨機需求的人員排程(Staff Scheduling For Stochastic Demands)](https://s3131212.github.io/Staff-Scheduling-For-Stochastic-Demands/)
 
 ### **數據包絡分析 Data Envelopment Analysis (DEA)**
 1. [數據包絡分析概論(Introduction to Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
