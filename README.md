@@ -24,7 +24,7 @@ This course will provide students to learn the methodologies of operations resea
 
 ### **模型與應用實例**   
 1. [動態供應鏈(Dynamic Supply Chain Management)](https://github.com/peng1055/Dynamic-Supply-Chain)
-2. [貨櫃裝載問題(3D-Bin Packing Problem)] (https://github.com/dasvision0212/3D-Bin-Packing-Problem-with-BRKGA)
+2. [貨櫃裝載問題(3D-Bin Packing Problem)](https://github.com/dasvision0212/3D-Bin-Packing-Problem-with-BRKGA)
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
 1. [MODA: Prior Articulation of Preference- Compromise Programming](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
