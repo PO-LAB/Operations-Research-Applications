@@ -22,14 +22,14 @@ This course will provide students to learn the methodologies of operations resea
 1. [漸進抽樣法pdf(Approximation and Sampling Method)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling%20Method.pdf)
 2. [漸進抽樣法code(Approximation and Sampling Method)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling.ipynb)
 3. [隨機預防保養排程(Preventive Maintenance Scheduling)](https://github.com/cu2189191862/ORA_final/blob/main/readme.pdf)
+4. [隨機需求的人員排程(Staff Scheduling For Stochastic Demands)](https://s3131212.github.io/Staff-Scheduling-For-Stochastic-Demands/)
 
 ### **模型與應用實例**   
 1. [動態供應鏈(Dynamic Supply Chain Management)](https://github.com/peng1055/Dynamic-Supply-Chain)
 2. [貨櫃裝載問題(3D-Bin Packing Problem)](https://github.com/dasvision0212/3D-Bin-Packing-Problem-with-BRKGA)
 3. [專案組合選擇最佳化(Project Portfolio Selection Problem (PPSP))](https://github.com/boboru/project_portfolio_selection_problem)
-4. [隨機需求的人員排程(Staff Scheduling For Stochastic Demands)](https://s3131212.github.io/Staff-Scheduling-For-Stochastic-Demands/)
-5. [生成對抗網路於文字摘要(GAN-based Method for Text Summarization)](https://github.com/lopeterlo/ORA_final)
-6. [需求預測與動態定價於數位通路(Demand estimation and dynamic pricing in digital channels)](https://github.com/tingshan2859880/Operations-Research-Applications)
+4. [生成對抗網路於文字摘要(GAN-based Method for Text Summarization)](https://github.com/lopeterlo/ORA_final)
+5. [需求預測與動態定價於數位通路(Demand estimation and dynamic pricing in digital channels)](https://github.com/tingshan2859880/Operations-Research-Applications)
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
 1. [MODA: Prior Articulation of Preference- Compromise Programming](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
@@ -43,6 +43,7 @@ This course will provide students to learn the methodologies of operations resea
 3. [網路數據包絡分析(Network Data Envelopment Analysis)](https://github.com/wurmen/DEA/blob/master/Network_DEA/network_dea.md)
 4. [隨機無母數數據包絡(Stochastic Nonparametric Envelopment of Data, StoNED)](https://pystoned.readthedocs.io/en/latest/#)
 5. [汙染物邊際減排成本估計(Marginal Abatement Cost Estimation of CO2, SO2, and NOx)](https://github.com/JaneChien-42/DSP-Estimation-of-Pollutants)
+6. [保險業效率分析-網路DEA(Efficiency Measure in Insurance Industry- Network DEA)](https://github.com/wuyentung/ORA_final_project/blob/main/Efficiency%20Measure%20in%20Insurance%20Industry%20–%20A%20Network%20DEA%20Model.md)
 
 
 ### **強化學習 Reinforcement Learning** 
