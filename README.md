@@ -23,6 +23,7 @@ This course will provide students to learn the methodologies of operations resea
 2. [漸進抽樣法code(Approximation and Sampling Method)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling.ipynb)
 3. [隨機預防保養排程(Preventive Maintenance Scheduling)](https://github.com/cu2189191862/ORA_final/blob/main/readme.pdf)
 4. [隨機需求的人員排程(Staff Scheduling For Stochastic Demands)](https://s3131212.github.io/Staff-Scheduling-For-Stochastic-Demands/)
+5. [運算中心的綠色排程優化(Green-schedule-optimization-for-heterogeneous-computing-center)](https://github.com/Bro-Chen-beep/Green-schedule-optimization-for-heterogeneous-computing-center)
 
 ### **模型與應用實例**   
 1. [動態供應鏈(Dynamic Supply Chain Management)](https://github.com/peng1055/Dynamic-Supply-Chain)
@@ -54,6 +55,7 @@ This course will provide students to learn the methodologies of operations resea
 5. [強化學習於生產排程1(Reinforcement Learning for Flow Shop Scheduling](https://github.com/wurmen/Flow-Shop-Scheduling-Based-On-Reinforcement-Learning-Algorithm)
 6. [強化學習於生產排程2(Reinforcement Learning for Semiconductor Scheduling)](https://github.com/yuwen-teng/ORA/tree/master)
 7. [強化學習於預防保養優化(Reinforcement Learning in Preventive Maintenance Policy)](https://github.com/jerryshen1216/ORA_Project_RL_PM)
+8. [強化學習於動態定價(Reinforcement Learning for Dynamic Pricing)](https://gist.github.com/yunchiapig/83da49fec4d4657f3113d2561fcdf1a4)
 
 ### **生產排程 Production Scheduling**
 1. [數學規劃 Mathematical Programming for Job Shop Scheduling](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Job%20shop%20scheduling%20problem.md)
