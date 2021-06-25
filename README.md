@@ -27,7 +27,8 @@ This course will provide students to learn the methodologies of operations resea
 2. [貨櫃裝載問題(3D-Bin Packing Problem)](https://github.com/dasvision0212/3D-Bin-Packing-Problem-with-BRKGA)
 3. [專案組合選擇最佳化(Project Portfolio Selection Problem (PPSP))](https://github.com/boboru/project_portfolio_selection_problem)
 4. [隨機需求的人員排程(Staff Scheduling For Stochastic Demands)](https://s3131212.github.io/Staff-Scheduling-For-Stochastic-Demands/)
-5. [生成對抗網路於文字摘要(GAN-based Method for Text Summarization)]https://github.com/lopeterlo/ORA_final)
+5. [生成對抗網路於文字摘要(GAN-based Method for Text Summarization)](https://github.com/lopeterlo/ORA_final)
+6. [需求預測與動態定價於數位通路(Demand estimation and dynamic pricing in digital channels)](https://github.com/tingshan2859880/Operations-Research-Applications)
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
 1. [MODA: Prior Articulation of Preference- Compromise Programming](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
