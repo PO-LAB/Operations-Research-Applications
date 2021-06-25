@@ -26,13 +26,15 @@ This course will provide students to learn the methodologies of operations resea
 1. [動態供應鏈(Dynamic Supply Chain Management)](https://github.com/peng1055/Dynamic-Supply-Chain)
 2. [貨櫃裝載問題(3D-Bin Packing Problem)](https://github.com/dasvision0212/3D-Bin-Packing-Problem-with-BRKGA)
 3. [專案組合選擇最佳化(Project Portfolio Selection Problem (PPSP))](https://github.com/boboru/project_portfolio_selection_problem)
+4. [隨機需求的人員排程(Staff Scheduling For Stochastic Demands)](https://s3131212.github.io/Staff-Scheduling-For-Stochastic-Demands/)
+5. [生成對抗網路於文字摘要(GAN-based Method for Text Summarization)]https://github.com/lopeterlo/ORA_final)
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
 1. [MODA: Prior Articulation of Preference- Compromise Programming](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
 2. [MODA: Progressive Articulation of Preferences- The Step Method(STEM)](https://github.com/rgib37190/Operating-System)
 3. [投資組合最佳化(Investment Portfolio Optimization)](https://github.com/Ming-Xuan/GalaxyMing)
 4. [廠商評選與訂單配置(Vendor Selection and Order Allocation)](https://github.com/maharanirizki/VSOA)
-5. [隨機需求的人員排程(Staff Scheduling For Stochastic Demands)](https://s3131212.github.io/Staff-Scheduling-For-Stochastic-Demands/)
+
 
 ### **數據包絡分析 Data Envelopment Analysis (DEA)**
 1. [數據包絡分析概論(Introduction to Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
