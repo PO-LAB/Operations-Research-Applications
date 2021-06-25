@@ -57,6 +57,7 @@ This course will provide students to learn the methodologies of operations resea
 3. [基因演算法於生產排程1(Genetic Algorithm for Job Shop Scheduling-1)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/GA/GA.md)
 4. [基因演算法於生產排程2(Genetic Algorithm for Job Shop Scheduling-2)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/GA_Application_Job_Shop_Problem/JSP.md)
 5. [Nondominated Sorting Genetic Algorithm II (NSGA-II for Job Shop Scheduling)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/NSGA-II/NSGA-II.md)
+6. [考慮預防保養的生產排程1(Job Scheduling Problem considering Preventive Maintenance)](https://github.com/Janeliao123/Job-scheduling-problem-considering-PM/blob/main/job_scheduling_problem_considering_preventive_maintenance.md)
 
 ### **啟發式演算法 Metaheuristic** 
 1. [禁忌搜尋法(Tabu Search Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Tabu_Algorithm/Tabu_Algorithm.md)
