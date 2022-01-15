@@ -31,6 +31,8 @@ This course will provide students to learn the methodologies of operations resea
 3. [專案組合選擇最佳化(Project Portfolio Selection Problem (PPSP))](https://github.com/boboru/project_portfolio_selection_problem)
 4. [生成對抗網路於文字摘要(GAN-based Method for Text Summarization)](https://github.com/lopeterlo/ORA_final)
 5. [需求預測與動態定價於數位通路(Demand estimation and dynamic pricing in digital channels)](https://github.com/tingshan2859880/Operations-Research-Applications)
+6. [逆向物流設施選址(Facility location for reverse logistics of returns)](https://github.com/HsiehYiJung/Applying-genetic-algorithm-to-the-problem-of-reverse-logistics-of-returns)
+7. [考慮易貨交換的報童問題(Newsvendor problem with barter exchange)](https://github.com/shihzhibin/Operations-Research-Applications-and-Implementation)
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
 1. [MODA: Prior Articulation of Preference- Compromise Programming](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
@@ -46,7 +48,6 @@ This course will provide students to learn the methodologies of operations resea
 5. [汙染物邊際減排成本估計(Marginal Abatement Cost Estimation of CO2, SO2, and NOx)](https://github.com/JaneChien-42/DSP-Estimation-of-Pollutants)
 6. [保險業效率分析-網路DEA(Efficiency Measure in Insurance Industry- Network DEA)](https://github.com/wuyentung/ORA_final_project/blob/main/Efficiency%20Measure%20in%20Insurance%20Industry%20–%20A%20Network%20DEA%20Model.md)
 
-
 ### **強化學習 Reinforcement Learning** 
 1. [馬可夫決策過程(Markov Decision Process)](https://github.com/tyler8812/Markovian-Decision-Process)
 2. [強化學習概論(Introduction to Reinforcement Learning)](https://github.com/TzuYuOu/Reinforcement-Learning-Introduction)
@@ -56,6 +57,7 @@ This course will provide students to learn the methodologies of operations resea
 6. [強化學習於生產排程2(Reinforcement Learning for Semiconductor Scheduling)](https://github.com/yuwen-teng/ORA/tree/master)
 7. [強化學習於預防保養優化(Reinforcement Learning in Preventive Maintenance Policy)](https://github.com/jerryshen1216/ORA_Project_RL_PM)
 8. [強化學習於動態定價(Reinforcement Learning for Dynamic Pricing)](https://gist.github.com/yunchiapig/83da49fec4d4657f3113d2561fcdf1a4)
+9. [馬可夫決策過程於COVID-19預防策略(Markov Decision Process for COVID-19 Prevemtion Strategy)](https://github.com/ShuHuei/ORA_finalproject)
 
 ### **生產排程 Production Scheduling**
 1. [數學規劃 Mathematical Programming for Job Shop Scheduling](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Job%20shop%20scheduling%20problem.md)
@@ -71,6 +73,7 @@ This course will provide students to learn the methodologies of operations resea
 2. [模擬退火法(Simulated Annealing Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Simulated_Annealing_Algorithm/Simulated_Annealing_Algorithm.md)
 3. [基因演算法(Genetic Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Genetic_Algorithm/Genetic_Algorithm.md)
 4. [混合蟻群最佳化與基因演算法求解旅行推銷員問題(Hybrid of ACO and GA for Traveling Salesman Problem, TSP)](https://github.com/OliveLake/Optimization-of-Shipping-Schedulling-of-ACO/blob/master/Optimization%20of%20Shipping%20Schedulling%20of%20ACO.md)
+5. [粒子群最佳化與天牛鬚搜尋於機械手臂運動規劃(PSO and BAS for Manipulator Motion Planning)](https://github.com/chiehwun/2021-NCKU_ORA/blob/main/README.md)
 
 ### **:pushpin: Python**
 ### **:triangular_flag_on_post: 其他介紹**
