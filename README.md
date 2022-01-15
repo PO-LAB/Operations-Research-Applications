@@ -35,12 +35,14 @@ This course will provide students to learn the methodologies of operations resea
 7. [考慮易貨交換的報童問題(Newsvendor problem with barter exchange)](https://github.com/shihzhibin/Operations-Research-Applications-and-Implementation)
 8. [迴歸與梯度下降法於摩擦力估計(Regression and Gradient Descent for Friction Model Estimation)](https://github.com/effylee1006/Multiple-Linear-Regression-by-using-Gradient-Descent/blob/main/README.md)
 9. [集成學習參數最佳化(Parameters Optimization in Ensemble Learning)](https://github.com/KevinLu43/ORAProject)
+10. [多媒體隨選數據路徑最佳化(Data Routing Optimization for Multimedia on Demand)](https://github.com/Chiyu1999/MOD-optimal-data-routing-/blob/main/README.pdf)
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
 1. [MODA: Prior Articulation of Preference- Compromise Programming](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
 2. [MODA: Progressive Articulation of Preferences- The Step Method(STEM)](https://github.com/rgib37190/Operating-System)
 3. [投資組合最佳化(Investment Portfolio Optimization)](https://github.com/Ming-Xuan/GalaxyMing)
 4. [廠商評選與訂單配置(Vendor Selection and Order Allocation)](https://github.com/maharanirizki/VSOA)
+5. [多目標綠色供應鏈(Multi-Objective Green Supply Chain Optimization)](https://github.com/zxcvbnm30319/OR-Final-Project)
 
 ### **數據包絡分析 Data Envelopment Analysis (DEA)**
 1. [數據包絡分析概論(Introduction to Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
@@ -71,12 +73,16 @@ This course will provide students to learn the methodologies of operations resea
 7. [考慮預防保養的生產排程1(Job Scheduling Problem considering Preventive Maintenance)](https://github.com/Janeliao123/Job-scheduling-problem-considering-PM/blob/main/job_scheduling_problem_considering_preventive_maintenance.md)
 8. [海運航線排程(Shipping Scheduling)](https://github.com/OliveLake/Optimization-of-Shipping-Schedulling-of-ACO/blob/master/Optimization%20of%20Shipping%20Schedulling%20of%20ACO.md)
 
+### **聖誕老公公大數據競賽 Kaggle's Christmas Contest**
+1. [看片組合最佳化問題(Santa-2021-The Merry Movie Montage- Asymmetric traveling salesman problem)](https://github.com/OldGoose/ORA-Project-Santa-2021---The-Merry-Movie-Montage)
+
 ### **啟發式演算法 Metaheuristic** 
 1. [禁忌搜尋法(Tabu Search Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Tabu_Algorithm/Tabu_Algorithm.md)
 2. [模擬退火法(Simulated Annealing Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Simulated_Annealing_Algorithm/Simulated_Annealing_Algorithm.md)
 3. [基因演算法(Genetic Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Genetic_Algorithm/Genetic_Algorithm.md)
 4. [混合蟻群最佳化與基因演算法求解旅行推銷員問題(Hybrid of ACO and GA for Traveling Salesman Problem, TSP)](https://github.com/OliveLake/Optimization-of-Shipping-Schedulling-of-ACO/blob/master/Optimization%20of%20Shipping%20Schedulling%20of%20ACO.md)
 5. [粒子群最佳化與天牛鬚搜尋於機械手臂運動規劃(PSO and BAS for Manipulator Motion Planning)](https://github.com/chiehwun/2021-NCKU_ORA/blob/main/README.md)
+6. Santa-2021-The Merry Movie Montage
 
 ### **:pushpin: Python**
 ### **:triangular_flag_on_post: 其他介紹**
