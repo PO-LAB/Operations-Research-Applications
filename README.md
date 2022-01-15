@@ -82,7 +82,7 @@ This course will provide students to learn the methodologies of operations resea
 3. [基因演算法(Genetic Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Genetic_Algorithm/Genetic_Algorithm.md)
 4. [混合蟻群最佳化與基因演算法求解旅行推銷員問題(Hybrid of ACO and GA for Traveling Salesman Problem, TSP)](https://github.com/OliveLake/Optimization-of-Shipping-Schedulling-of-ACO/blob/master/Optimization%20of%20Shipping%20Schedulling%20of%20ACO.md)
 5. [粒子群最佳化與天牛鬚搜尋於機械手臂運動規劃(PSO and BAS for Manipulator Motion Planning)](https://github.com/chiehwun/2021-NCKU_ORA/blob/main/README.md)
-6. Santa-2021-The Merry Movie Montage
+
 
 ### **:pushpin: Python**
 ### **:triangular_flag_on_post: 其他介紹**
