@@ -33,6 +33,8 @@ This course will provide students to learn the methodologies of operations resea
 5. [需求預測與動態定價於數位通路(Demand estimation and dynamic pricing in digital channels)](https://github.com/tingshan2859880/Operations-Research-Applications)
 6. [逆向物流設施選址(Facility location for reverse logistics of returns)](https://github.com/HsiehYiJung/Applying-genetic-algorithm-to-the-problem-of-reverse-logistics-of-returns)
 7. [考慮易貨交換的報童問題(Newsvendor problem with barter exchange)](https://github.com/shihzhibin/Operations-Research-Applications-and-Implementation)
+8. [迴歸與梯度下降法於摩擦力估計(Regression and Gradient Descent for Friction Model Estimation)](https://github.com/effylee1006/Multiple-Linear-Regression-by-using-Gradient-Descent/blob/main/README.md)
+9. [集成學習參數最佳化(Parameters Optimization in Ensemble Learning)](https://github.com/KevinLu43/ORAProject)
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
 1. [MODA: Prior Articulation of Preference- Compromise Programming](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
@@ -65,8 +67,9 @@ This course will provide students to learn the methodologies of operations resea
 3. [基因演算法於生產排程1(Genetic Algorithm for Job Shop Scheduling-1)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/GA/GA.md)
 4. [基因演算法於生產排程2(Genetic Algorithm for Job Shop Scheduling-2)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/GA_Application_Job_Shop_Problem/JSP.md)
 5. [Nondominated Sorting Genetic Algorithm II (NSGA-II for Job Shop Scheduling)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/NSGA-II/NSGA-II.md)
-6. [考慮預防保養的生產排程1(Job Scheduling Problem considering Preventive Maintenance)](https://github.com/Janeliao123/Job-scheduling-problem-considering-PM/blob/main/job_scheduling_problem_considering_preventive_maintenance.md)
-7. [海運航線排程(Shipping Scheduling)](https://github.com/OliveLake/Optimization-of-Shipping-Schedulling-of-ACO/blob/master/Optimization%20of%20Shipping%20Schedulling%20of%20ACO.md)
+6. [改良NSGA-II與NSGA-III求解生產排程(Improved NSGA-II and NSGA-III for Job Shop Scheduling)](https://github.com/LeoJacan/Improved-NSGA-II-and-NSGA-III-for-Job-Shop-Scheduling)
+7. [考慮預防保養的生產排程1(Job Scheduling Problem considering Preventive Maintenance)](https://github.com/Janeliao123/Job-scheduling-problem-considering-PM/blob/main/job_scheduling_problem_considering_preventive_maintenance.md)
+8. [海運航線排程(Shipping Scheduling)](https://github.com/OliveLake/Optimization-of-Shipping-Schedulling-of-ACO/blob/master/Optimization%20of%20Shipping%20Schedulling%20of%20ACO.md)
 
 ### **啟發式演算法 Metaheuristic** 
 1. [禁忌搜尋法(Tabu Search Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Tabu_Algorithm/Tabu_Algorithm.md)
