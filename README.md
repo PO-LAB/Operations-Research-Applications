@@ -64,11 +64,13 @@ This course will provide students to learn the methodologies of operations resea
 4. [基因演算法於生產排程2(Genetic Algorithm for Job Shop Scheduling-2)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/GA_Application_Job_Shop_Problem/JSP.md)
 5. [Nondominated Sorting Genetic Algorithm II (NSGA-II for Job Shop Scheduling)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/NSGA-II/NSGA-II.md)
 6. [考慮預防保養的生產排程1(Job Scheduling Problem considering Preventive Maintenance)](https://github.com/Janeliao123/Job-scheduling-problem-considering-PM/blob/main/job_scheduling_problem_considering_preventive_maintenance.md)
+7. [海運航線排程(Shipping Scheduling)](https://github.com/OliveLake/Optimization-of-Shipping-Schedulling-of-ACO/blob/master/Optimization%20of%20Shipping%20Schedulling%20of%20ACO.md)
 
 ### **啟發式演算法 Metaheuristic** 
 1. [禁忌搜尋法(Tabu Search Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Tabu_Algorithm/Tabu_Algorithm.md)
 2. [模擬退火法(Simulated Annealing Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Simulated_Annealing_Algorithm/Simulated_Annealing_Algorithm.md)
 3. [基因演算法(Genetic Algorithm)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/Genetic_Algorithm/Genetic_Algorithm.md)
+4. [混合蟻群最佳化與基因演算法求解旅行推銷員問題(Hybrid of ACO and GA for Traveling Salesman Problem, TSP)](https://github.com/OliveLake/Optimization-of-Shipping-Schedulling-of-ACO/blob/master/Optimization%20of%20Shipping%20Schedulling%20of%20ACO.md)
 
 ### **:pushpin: Python**
 ### **:triangular_flag_on_post: 其他介紹**
