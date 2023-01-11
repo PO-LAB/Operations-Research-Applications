@@ -2,7 +2,7 @@
 
 ### **內容概述**
 
-此網頁為台灣大學資訊管理學系「作業研究應用與實作」的課程網頁。
+此網頁為國立臺灣大學資訊管理學系與國立成功大學製造資訊與系統研究所的「作業研究應用與實作」課程網頁。
 以統計方法與最佳化理論為基礎，深入探討各種作業研究模型於實務應用問題，包含產能規劃、供應鏈管理、績效評估、背包問題、設施規劃、投資組合、保險醫療等。
 This course will provide students to learn the methodologies of operations research and its applications to the real problem. The models include deterministic models (such as linear programming, multi-criteria decision analysis, data envelopment analysis, etc.) and stochastic models (such as Bayesian decision analysis, stochastic programming, Markov decision process, etc.). The course integrates the knowledge domains of the management and engineering, applied in capacity planning, facility layout, supply chain, manufacturing scheduling, performance evaluation, vendor selection and order allocation, Bin-packing, financial investment, etc. We develop the implementation capability of the information system in practice. Finally we should know how to solve the real problem systematically using optimization or statistical methods.
 
@@ -36,6 +36,7 @@ This course will provide students to learn the methodologies of operations resea
 8. [迴歸與梯度下降法於摩擦力估計(Regression and Gradient Descent for Friction Model Estimation)](https://github.com/effylee1006/Multiple-Linear-Regression-by-using-Gradient-Descent/blob/main/README.md)
 9. [集成學習參數最佳化(Parameters Optimization in Ensemble Learning)](https://github.com/KevinLu43/ORAProject)
 10. [多媒體隨選數據路徑最佳化(Data Routing Optimization for Multimedia on Demand)](https://github.com/Chiyu1999/MOD-optimal-data-routing-/blob/main/README.pdf)
+11. [社交距離座位安排最佳化(Seat Assignments with Social Distance and Minimum Volume in COVID)](https://github.com/KaichiHuang/Seat-Assignments-With-Social-Distance-And-Minimum-Volume)
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
 1. [MODA: Prior Articulation of Preference- Compromise Programming](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
@@ -62,6 +63,7 @@ This course will provide students to learn the methodologies of operations resea
 7. [強化學習於預防保養優化(Reinforcement Learning in Preventive Maintenance Policy)](https://github.com/jerryshen1216/ORA_Project_RL_PM)
 8. [強化學習於動態定價(Reinforcement Learning for Dynamic Pricing)](https://gist.github.com/yunchiapig/83da49fec4d4657f3113d2561fcdf1a4)
 9. [馬可夫決策過程於COVID-19預防策略(Markov Decision Process for COVID-19 Prevemtion Strategy)](https://github.com/ShuHuei/ORA_finalproject)
+10. [兩玩家多台吃角子老虎機策略(Strategy for Two Players Multi-Armed Bandit)](https://github.com/visitorckw/Strategy-for-Two-Players-Multi-Armed-Bandit)
 
 ### **生產排程 Production Scheduling**
 1. [數學規劃 Mathematical Programming for Job Shop Scheduling](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Job%20shop%20scheduling%20problem.md)
