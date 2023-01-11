@@ -44,6 +44,7 @@ This course will provide students to learn the methodologies of operations resea
 3. [投資組合最佳化(Investment Portfolio Optimization)](https://github.com/Ming-Xuan/GalaxyMing)
 4. [廠商評選與訂單配置(Vendor Selection and Order Allocation)](https://github.com/maharanirizki/VSOA)
 5. [多目標綠色供應鏈(Multi-Objective Green Supply Chain Optimization)](https://github.com/zxcvbnm30319/OR-Final-Project)
+6. [貝式投資組合最佳化(Black-Litterman Portfolio Optimization)](https://github.com/chienhanwang/Portfolio-Optimization)
 
 ### **數據包絡分析 Data Envelopment Analysis (DEA)**
 1. [數據包絡分析概論(Introduction to Data Envelopment Analysis)](https://github.com/gary60405/Data-Envelopment-Analysis-Tutorial)
@@ -64,8 +65,9 @@ This course will provide students to learn the methodologies of operations resea
 8. [強化學習於動態定價(Reinforcement Learning for Dynamic Pricing)](https://gist.github.com/yunchiapig/83da49fec4d4657f3113d2561fcdf1a4)
 9. [馬可夫決策過程於COVID-19預防策略(Markov Decision Process for COVID-19 Prevemtion Strategy)](https://github.com/ShuHuei/ORA_finalproject)
 10. [兩玩家多台吃角子老虎機策略(Strategy for Two Players Multi-Armed Bandit)](https://github.com/visitorckw/Strategy-for-Two-Players-Multi-Armed-Bandit)
+11. [強化學習於共享計程車(Reinforcement Learning in Carpooling problem)](https://github.com/Hamu111268/ORA_final_project)
 
-### **生產排程 Production Scheduling**
+### **生產與服務排程 Production Scheduling**
 1. [數學規劃 Mathematical Programming for Job Shop Scheduling](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Job%20shop%20scheduling%20problem.md)
 2. [數學規劃 Mathematical Programming for Flexible Job Shop](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Flexible%20Job%20Shop%20Problem.md)
 3. [基因演算法於生產排程1(Genetic Algorithm for Job Shop Scheduling-1)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/GA/GA.md)
@@ -74,6 +76,7 @@ This course will provide students to learn the methodologies of operations resea
 6. [改良NSGA-II與NSGA-III求解生產排程(Improved NSGA-II and NSGA-III for Job Shop Scheduling)](https://github.com/LeoJacan/Improved-NSGA-II-and-NSGA-III-for-Job-Shop-Scheduling)
 7. [考慮預防保養的生產排程1(Job Scheduling Problem considering Preventive Maintenance)](https://github.com/Janeliao123/Job-scheduling-problem-considering-PM/blob/main/job_scheduling_problem_considering_preventive_maintenance.md)
 8. [海運航線排程(Shipping Scheduling)](https://github.com/OliveLake/Optimization-of-Shipping-Schedulling-of-ACO/blob/master/Optimization%20of%20Shipping%20Schedulling%20of%20ACO.md)
+9. [火車列車長排班排程(Train Captains Scheduling at the Taiwan Railways Administration)](https://github.com/Botang-l/ORA_Project)
 
 ### **聖誕老公公大數據競賽 Kaggle's Christmas Contest**
 1. [看片組合最佳化問題(Santa-2021-The Merry Movie Montage- Asymmetric traveling salesman problem)](https://github.com/OldGoose/ORA-Project-Santa-2021---The-Merry-Movie-Montage)
