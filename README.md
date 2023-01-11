@@ -24,6 +24,7 @@ This course will provide students to learn the methodologies of operations resea
 3. [隨機預防保養排程(Preventive Maintenance Scheduling)](https://github.com/cu2189191862/ORA_final/blob/main/readme.pdf)
 4. [隨機需求的人員排程(Staff Scheduling For Stochastic Demands)](https://s3131212.github.io/Staff-Scheduling-For-Stochastic-Demands/)
 5. [運算中心的綠色排程優化(Green-schedule-optimization-for-heterogeneous-computing-center)](https://github.com/Bro-Chen-beep/Green-schedule-optimization-for-heterogeneous-computing-center)
+6. [非接觸式物資遞送政策的救災物流最佳化(Disaster Relief Logistics with Contactless Delivery Policy)](https://github.com/Nana2929/ORA-modrl)
 
 ### **模型與應用實例**   
 1. [動態供應鏈(Dynamic Supply Chain Management)](https://github.com/peng1055/Dynamic-Supply-Chain)
