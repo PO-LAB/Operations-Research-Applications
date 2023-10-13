@@ -18,6 +18,9 @@ This course will provide students to learn the methodologies of operations resea
 ### **Fundamentals for Linear Programming** 
 1. [Python+Gurobi / Python+Pulp](https://github.com/PO-LAB/Python-Gurobi-Pulp)
 
+### **Fundamentals for Robust Optimization** 
+1. [Python for Robust Optimization](https://github.com/cu2189191862/robust-model)
+
 ### **隨機規劃 Stochastic Programming** 
 1. [漸進抽樣法pdf(Approximation and Sampling Method)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling%20Method.pdf)
 2. [漸進抽樣法code(Approximation and Sampling Method)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling.ipynb)
