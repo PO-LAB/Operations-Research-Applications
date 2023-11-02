@@ -22,8 +22,8 @@ This course will provide students to learn the methodologies of operations resea
 1. [Python for Robust Optimization](https://github.com/cu2189191862/robust-model)
 
 ### **隨機規劃 Stochastic Programming** 
-1. [漸進抽樣法pdf(Approximation and Sampling Method)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling%20Method.pdf)
-2. [漸進抽樣法code(Approximation and Sampling Method)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling.ipynb)
+1. [漸進抽樣法pdf(Sample Average Approximation)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling%20Method.pdf)
+2. [漸進抽樣法code(Sample Average Approximation)](https://github.com/bmw2142/Stochastic-Programming/blob/master/Approximation%20and%20Sampling.ipynb)
 3. [隨機預防保養排程(Preventive Maintenance Scheduling)](https://github.com/cu2189191862/ORA_final/blob/main/readme.pdf)
 4. [隨機需求的人員排程(Staff Scheduling For Stochastic Demands)](https://s3131212.github.io/Staff-Scheduling-For-Stochastic-Demands/)
 5. [運算中心的綠色排程優化(Green-schedule-optimization-for-heterogeneous-computing-center)](https://github.com/Bro-Chen-beep/Green-schedule-optimization-for-heterogeneous-computing-center)
