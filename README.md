@@ -74,7 +74,7 @@ This course will provide students to learn the methodologies of operations resea
 ### **生產與服務排程 Production Scheduling**
 1. [數學規劃 Mathematical Programming for Job Shop Scheduling](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Job%20shop%20scheduling%20problem.md)
 2. [數學規劃 Mathematical Programming for Flexible Job Shop](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Flexible%20Job%20Shop%20Problem.md)
-3. [基因演算法於生產排程1(Genetic Algorithm for Job Shop Scheduling-1)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/GA/GA.md)
+3. [基因演算法於生產排程1(Genetic Algorithm for Job Shop Scheduling-1)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/implementation%20with%20python/GA-jobshop/GA_For_Jobshop.md)
 4. [基因演算法於生產排程2(Genetic Algorithm for Job Shop Scheduling-2)](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/GA_Application_Job_Shop_Problem/JSP.md)
 5. [Nondominated Sorting Genetic Algorithm II (NSGA-II for Job Shop Scheduling)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/NSGA-II/NSGA-II.md)
 6. [改良NSGA-II與NSGA-III求解生產排程(Improved NSGA-II and NSGA-III for Job Shop Scheduling)](https://github.com/LeoJacan/Improved-NSGA-II-and-NSGA-III-for-Job-Shop-Scheduling)
