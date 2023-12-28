@@ -41,6 +41,7 @@ This course will provide students to learn the methodologies of operations resea
 9. [集成學習參數最佳化(Parameters Optimization in Ensemble Learning)](https://github.com/KevinLu43/ORAProject)
 10. [多媒體隨選數據路徑最佳化(Data Routing Optimization for Multimedia on Demand)](https://github.com/Chiyu1999/MOD-optimal-data-routing-/blob/main/README.pdf)
 11. [社交距離座位安排最佳化(Seat Assignments with Social Distance and Minimum Volume in COVID)](https://github.com/KaichiHuang/Seat-Assignments-With-Social-Distance-And-Minimum-Volume)
+12. [文字知識圖譜與作業研究(Textual Knowledge Graph and Operations Research)](https://github.com/ZHIYAO1219/ORA_KG)
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
 1. [MODA: Prior Articulation of Preference- Compromise Programming](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
@@ -82,6 +83,9 @@ This course will provide students to learn the methodologies of operations resea
 8. [海運航線排程(Shipping Scheduling)](https://github.com/OliveLake/Optimization-of-Shipping-Schedulling-of-ACO/blob/master/Optimization%20of%20Shipping%20Schedulling%20of%20ACO.md)
 9. [火車列車長排班排程(Train Captains Scheduling at the Taiwan Railways Administration)](https://github.com/Botang-l/ORA_Project)
 10. [加工時間變異下的彈性生產排程(Flexible Job Shop Scheduling Problem with Variable Processing Time)](https://github.com/WWFUG/Flexible-Job-Shop-Scheduling-Problem-with-Variable-Processing-Time)
+
+### 運輸規劃與排程 Transportation**
+1. [自駕車共享排程系統(Scheduling System for Autonomous Vehicle Sharing)(https://github.com/jeffery881001/ORA-project-vehicle-sharing/tree/main)
 
 ### **人工智慧/機器學習/數據科學 and 作業研究 AI/ML/DS and OR**
 1. [支持向量機於代價敏感特徵挑選(Cost-sensitive Feature Selection for Support Vector Machines)](https://github.com/Peng-Jen/Cost-sensitive-Feature-Selection-for-Support-Vector-Machines)
