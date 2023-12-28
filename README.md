@@ -81,10 +81,10 @@ This course will provide students to learn the methodologies of operations resea
 7. [考慮預防保養的生產排程1(Job Scheduling Problem considering Preventive Maintenance)](https://github.com/Janeliao123/Job-scheduling-problem-considering-PM/blob/main/job_scheduling_problem_considering_preventive_maintenance.md)
 8. [海運航線排程(Shipping Scheduling)](https://github.com/OliveLake/Optimization-of-Shipping-Schedulling-of-ACO/blob/master/Optimization%20of%20Shipping%20Schedulling%20of%20ACO.md)
 9. [火車列車長排班排程(Train Captains Scheduling at the Taiwan Railways Administration)](https://github.com/Botang-l/ORA_Project)
-10. [加工時間變異下的彈性生產排程(Flexible Job Shop Scheduling Problem with Variable Processing Time)]([https://github.com/Botang-l/ORA_Project](https://github.com/WWFUG/Flexible-Job-Shop-Scheduling-Problem-with-Variable-Processing-Time))
+10. [加工時間變異下的彈性生產排程(Flexible Job Shop Scheduling Problem with Variable Processing Time)](https://github.com/WWFUG/Flexible-Job-Shop-Scheduling-Problem-with-Variable-Processing-Time)
 
 ### **人工智慧/機器學習/數據科學 and 作業研究 AI/ML/DS and OR**
-1. [支持向量機於代價敏感特徵挑選(Cost-sensitive Feature Selection for Support Vector Machines)]([https://github.com/Botang-l/ORA_Project](https://github.com/Peng-Jen/Cost-sensitive-Feature-Selection-for-Support-Vector-Machines))
+1. [支持向量機於代價敏感特徵挑選(Cost-sensitive Feature Selection for Support Vector Machines)](https://github.com/Peng-Jen/Cost-sensitive-Feature-Selection-for-Support-Vector-Machines)
 
 ### **聖誕老公公大數據競賽 Kaggle's Christmas Contest**
 1. [看片組合最佳化問題(Santa-2021-The Merry Movie Montage- Asymmetric traveling salesman problem)](https://github.com/OldGoose/ORA-Project-Santa-2021---The-Merry-Movie-Montage)
