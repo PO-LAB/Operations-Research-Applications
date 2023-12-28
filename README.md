@@ -42,6 +42,7 @@ This course will provide students to learn the methodologies of operations resea
 10. [多媒體隨選數據路徑最佳化(Data Routing Optimization for Multimedia on Demand)](https://github.com/Chiyu1999/MOD-optimal-data-routing-/blob/main/README.pdf)
 11. [社交距離座位安排最佳化(Seat Assignments with Social Distance and Minimum Volume in COVID)](https://github.com/KaichiHuang/Seat-Assignments-With-Social-Distance-And-Minimum-Volume)
 12. [文字知識圖譜與作業研究(Textual Knowledge Graph and Operations Research)](https://github.com/ZHIYAO1219/ORA_KG)
+13. [救災階段不確定性下的多商品分配 (Multi-Commodity Distribution Under Uncertainty in Disaster Response Phase)](https://github.com/cxap871210/2023_ORA_TeamB)
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
 1. [MODA: Prior Articulation of Preference- Compromise Programming](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
@@ -58,6 +59,7 @@ This course will provide students to learn the methodologies of operations resea
 4. [隨機無母數數據包絡(Stochastic Nonparametric Envelopment of Data, StoNED)](https://pystoned.readthedocs.io/en/latest/#)
 5. [汙染物邊際減排成本估計(Marginal Abatement Cost Estimation of CO2, SO2, and NOx)](https://github.com/JaneChien-42/DSP-Estimation-of-Pollutants)
 6. [保險業效率分析-網路DEA(Efficiency Measure in Insurance Industry- Network DEA)](https://github.com/wuyentung/ORA_final_project/blob/main/Efficiency%20Measure%20in%20Insurance%20Industry%20–%20A%20Network%20DEA%20Model.md)
+7. [網路數據包絡分析於供應鏈上下游績效評估(Supply Chain Performance Evaluation using network data envelopment analysis (NDEA))](https://github.com/clins210/ORA-NDEA)
 
 ### **強化學習 Reinforcement Learning** 
 1. [馬可夫決策過程(Markov Decision Process)](https://github.com/tyler8812/Markovian-Decision-Process)
@@ -71,6 +73,7 @@ This course will provide students to learn the methodologies of operations resea
 9. [馬可夫決策過程於COVID-19預防策略(Markov Decision Process for COVID-19 Prevemtion Strategy)](https://github.com/ShuHuei/ORA_finalproject)
 10. [兩玩家多台吃角子老虎機策略(Strategy for Two Players Multi-Armed Bandit)](https://github.com/visitorckw/Strategy-for-Two-Players-Multi-Armed-Bandit)
 11. [強化學習於共享計程車(Reinforcement Learning in Carpooling problem)](https://github.com/Hamu111268/ORA_final_project)
+12. [強化學習於預防保養與生產排程(Reinforcement-Learning-in-Preventive-Maintenance-and-production-scheduling)](https://github.com/IKai-Lai/Reinforcement-Learning-in-Preventive-Maintenance-and-Production-Scheduling/tree/main)
 
 ### **生產與服務排程 Production Scheduling**
 1. [數學規劃 Mathematical Programming for Job Shop Scheduling](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Job%20shop%20scheduling%20problem.md)
@@ -85,7 +88,10 @@ This course will provide students to learn the methodologies of operations resea
 10. [加工時間變異下的彈性生產排程(Flexible Job Shop Scheduling Problem with Variable Processing Time)](https://github.com/WWFUG/Flexible-Job-Shop-Scheduling-Problem-with-Variable-Processing-Time)
 
 ### 運輸規劃與排程 Transportation**
-1. [自駕車共享排程系統(Scheduling System for Autonomous Vehicle Sharing)(https://github.com/jeffery881001/ORA-project-vehicle-sharing/tree/main)
+1. [自駕車共享排程系統(Scheduling System for Autonomous Vehicle Sharing)](https://github.com/jeffery881001/ORA-project-vehicle-sharing/tree/main)
+
+### 供應鏈管理 Supply Chain Management**
+1. [權衡價格與品質的綠色供應鏈協作系統(Balancing Price and Green Quality in Green Supply Chain Coordination)](https://github.com/henryhuang920712/Green-Supply-Chain-Coordination)
 
 ### **人工智慧/機器學習/數據科學 and 作業研究 AI/ML/DS and OR**
 1. [支持向量機於代價敏感特徵挑選(Cost-sensitive Feature Selection for Support Vector Machines)](https://github.com/Peng-Jen/Cost-sensitive-Feature-Selection-for-Support-Vector-Machines)
