@@ -43,6 +43,7 @@ This course will provide students to learn the methodologies of operations resea
 11. [社交距離座位安排最佳化(Seat Assignments with Social Distance and Minimum Volume in COVID)](https://github.com/KaichiHuang/Seat-Assignments-With-Social-Distance-And-Minimum-Volume)
 12. [文字知識圖譜與作業研究(Textual Knowledge Graph and Operations Research)](https://github.com/ZHIYAO1219/ORA_KG)
 13. [救災階段不確定性下的多商品分配 (Multi-Commodity Distribution Under Uncertainty in Disaster Response Phase)](https://github.com/cxap871210/2023_ORA_TeamB)
+14. [COVID19運送服務下的救災物流 (Disaster-Relief-Logistics-Under-Covid-19-Delivery-Service)](https://github.com/a868111817/Disaster-Relief-Logistics-Under-Covid-19-Delivery-Service)
 
 ### **多目標決策分析 Multi-Objective Decision Analysis** 
 1. [MODA: Prior Articulation of Preference- Compromise Programming](https://github.com/Hoshey/Multi-Objective_Decision_Analysis_MODA_Prior_Articulation_of_Preferences_simple_tutorial)
@@ -89,6 +90,7 @@ This course will provide students to learn the methodologies of operations resea
 
 ### 運輸規劃與排程 Transportation**
 1. [自駕車共享排程系統(Scheduling System for Autonomous Vehicle Sharing)](https://github.com/jeffery881001/ORA-project-vehicle-sharing/tree/main)
+2. [循環經濟下的車輛共享系統(Circular Economy with Vehicle Sharing)](https://github.com/forward-jt/Vehicle-Sharing)
 
 ### 供應鏈管理 Supply Chain Management**
 1. [權衡價格與品質的綠色供應鏈協作系統(Balancing Price and Green Quality in Green Supply Chain Coordination)](https://github.com/henryhuang920712/Green-Supply-Chain-Coordination)
