@@ -67,14 +67,15 @@ This course will provide students to learn the methodologies of operations resea
 2. [強化學習概論(Introduction to Reinforcement Learning)](https://github.com/TzuYuOu/Reinforcement-Learning-Introduction)
 3. [深度強化學習概論(Introduction to Deep Reinforcement Learning)](https://github.com/ITingHung/Introduction-to-Deep-Reinforcement-Learning)
 4. [多目標強化學習(Multi-Objective Reinforement Learning)](https://github.com/kevin880987/Multi-Objective-Reinforement-Learning)
-5. [強化學習於生產排程1(Reinforcement Learning for Flow Shop Scheduling](https://github.com/wurmen/Flow-Shop-Scheduling-Based-On-Reinforcement-Learning-Algorithm)
-6. [強化學習於生產排程2(Reinforcement Learning for Semiconductor Scheduling)](https://github.com/yuwen-teng/ORA/tree/master)
-7. [強化學習於預防保養優化(Reinforcement Learning in Preventive Maintenance Policy)](https://github.com/jerryshen1216/ORA_Project_RL_PM)
-8. [強化學習於動態定價(Reinforcement Learning for Dynamic Pricing)](https://gist.github.com/yunchiapig/83da49fec4d4657f3113d2561fcdf1a4)
-9. [馬可夫決策過程於COVID-19預防策略(Markov Decision Process for COVID-19 Prevemtion Strategy)](https://github.com/ShuHuei/ORA_finalproject)
-10. [兩玩家多台吃角子老虎機策略(Strategy for Two Players Multi-Armed Bandit)](https://github.com/visitorckw/Strategy-for-Two-Players-Multi-Armed-Bandit)
-11. [強化學習於共享計程車(Reinforcement Learning in Carpooling problem)](https://github.com/Hamu111268/ORA_final_project)
+5. [強化學習於流線式生產排程1(Reinforcement Learning for Flow Shop Scheduling](https://github.com/wurmen/Flow-Shop-Scheduling-Based-On-Reinforcement-Learning-Algorithm)
+6. [強化學習於半導體生產排程2(Reinforcement Learning for Semiconductor Scheduling)](https://github.com/yuwen-teng/ORA/tree/master)
+7. [強化學習於零工式生產排程3(Reinforcement Learning for Job Shop Scheduling)](https://github.com/jack781114/DQN-for-job-shop-scheduling)
+8. [強化學習於預防保養優化(Reinforcement Learning in Preventive Maintenance Policy)](https://github.com/jerryshen1216/ORA_Project_RL_PM)
+9. [強化學習於動態定價(Reinforcement Learning for Dynamic Pricing)](https://gist.github.com/yunchiapig/83da49fec4d4657f3113d2561fcdf1a4)
+10. [馬可夫決策過程於COVID-19預防策略(Markov Decision Process for COVID-19 Prevemtion Strategy)](https://github.com/ShuHuei/ORA_finalproject)
+11. [兩玩家多台吃角子老虎機策略(Strategy for Two Players Multi-Armed Bandit)](https://github.com/visitorckw/Strategy-for-Two-Players-Multi-Armed-Bandit)
 12. [強化學習於預防保養與生產排程(Reinforcement-Learning-in-Preventive-Maintenance-and-production-scheduling)](https://github.com/IKai-Lai/Reinforcement-Learning-in-Preventive-Maintenance-and-Production-Scheduling/tree/main)
+13. [強化學習於交通號誌控制(Deep-Reinforcement-Learning-for-Traffic-Signal-Control-Problem)](https://github.com/YUN0626/Deep-Reinforcement-Learning-for-Traffic-Signal-Control-Problem-/tree/main)
 
 ### **生產與服務排程 Production Scheduling**
 1. [數學規劃 Mathematical Programming for Job Shop Scheduling](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Job%20shop%20scheduling%20problem.md)
@@ -89,8 +90,9 @@ This course will provide students to learn the methodologies of operations resea
 10. [加工時間變異下的彈性生產排程(Flexible Job Shop Scheduling Problem with Variable Processing Time)](https://github.com/WWFUG/Flexible-Job-Shop-Scheduling-Problem-with-Variable-Processing-Time)
 
 ### 運輸規劃與排程 Transportation**
-1. [自駕車共享排程系統(Scheduling System for Autonomous Vehicle Sharing)](https://github.com/jeffery881001/ORA-project-vehicle-sharing/tree/main)
-2. [循環經濟下的車輛共享系統(Circular Economy with Vehicle Sharing)](https://github.com/forward-jt/Vehicle-Sharing)
+1. [強化學習於共享計程車(Reinforcement Learning in Carpooling problem)](https://github.com/Hamu111268/ORA_final_project)
+2. [自駕車共享排程系統(Scheduling System for Autonomous Vehicle Sharing)](https://github.com/jeffery881001/ORA-project-vehicle-sharing/tree/main)
+3. [循環經濟下的車輛共享系統(Circular Economy with Vehicle Sharing)](https://github.com/forward-jt/Vehicle-Sharing) 
 
 ### 供應鏈管理 Supply Chain Management**
 1. [權衡價格與品質的綠色供應鏈協作系統(Balancing Price and Green Quality in Green Supply Chain Coordination)](https://github.com/henryhuang920712/Green-Supply-Chain-Coordination)
